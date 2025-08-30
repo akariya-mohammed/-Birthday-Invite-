@@ -1,2 +1,13 @@
-# -Birthday-Invite-
-A fun HTML project: digital birthday invitation with image, list, and Google Maps link.
+# 🎂 Birthday Invite Project
+
+A simple HTML project designed as a birthday invitation page.  
+This project demonstrates the use of **headings, images, lists, and links** in HTML.
+
+---
+
+## 📂 Project Structure
+```bash
+birthday-invite
+├── index.html   # Invitation page
+└── README.md    # Project documentation
+
