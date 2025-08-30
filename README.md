@@ -7,7 +7,9 @@ This project demonstrates the use of **headings, images, lists, and links** in H
 
 ## 📂 Project Structure
 ```bash
-birthday-invite
-├── index.html   # Invitation page
-└── README.md    # Project documentation
+birthday-invite/
+├── index.html        # Invitation page
+├── README.md         # Project documentation
+└── screenshot.png    # Preview of the page
+
 
